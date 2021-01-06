@@ -51,7 +51,7 @@
     "babel-plugin-transform-require-ignore": "^0.1.1",
     "base64-loader": "^1.0.0",
     "aws-sdk": "^2.702.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "celebrate": "^12.1.1",
     "cors": "^2.8.5",
