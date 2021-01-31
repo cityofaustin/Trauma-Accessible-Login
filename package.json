@@ -61,7 +61,7 @@
     "eth-crypto": "^1.6.0",
     "express": "^4.17.1",
     "express-fileupload": "^1.1.7-alpha.3",
-    "express-jwt": "^5.3.3",
+    "express-jwt": "^6.0.0",
     "express-oauth-server": "^2.0.0",
     "fetch": "^1.1.0",
     "gmail-send": "^1.8.10",
